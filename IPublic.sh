@@ -42,8 +42,8 @@ do
 #Escojeg menú
 setterm -foreground green
 echo "---------------------------------------------"
-echo -e "\e[1;36m [1].\e[0m\e[1;35mDesea info de su IP Publica mas detallada \e[0m"
-echo -e "\e[1;36m [2].\e[0m\e[1;35mSalir \e[0m"
+echo -e "\e[1;35m [1].\e[0m\e[1;36mDesea info de su IP Publica mas detallada \e[0m"
+echo -e "\e[1;35m [2].\e[0m\e[1;36mSalir \e[0m"
 setterm -foreground green
 echo "---------------------------------------------"
 echo -e -n "\e[1;33m [*]\e[0m\e[1;31mOPCION\e[0m \e[1;34m>>\e[0m "
